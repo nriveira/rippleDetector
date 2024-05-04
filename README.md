@@ -1,4 +1,4 @@
-# rippleDetector
+# rippleDetector [WiP], the softwarm arm of the device development
 ripple detector
 
 Description of Hierarchy
